@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2116,5): warning : The referenced project '..\cocos2d\external\Box2D\proj.win32\libbox2d.vcxproj' does not exist.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1101,5): warning MSB8027: 名为 main.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 fbr修改小小英雄版\main.cpp, main.cpp。
+  GoldenGitHub.vcxproj -> D:\C++\GoldenGitHub\GoldenGitHub\proj.win32\Release.win32\GoldenGitHub.exe
+  正在执行自定义生成步骤
+  复制了 0 个文件

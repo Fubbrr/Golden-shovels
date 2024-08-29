@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="hexagonal" renderorder="right-down" width="10" height="10" tilewidth="24" tileheight="22" infinite="0" hexsidelength="11" staggeraxis="y" staggerindex="odd" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="map" tilewidth="24" tileheight="22" tilecount="726" columns="33">
+  <image source="chessbg1.png" width="800" height="501"/>
+ </tileset>
+ <layer id="1" name="图块层 1" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxNzccJAmEUAOFdmzD3IaY+zH2IrvZh7kFMiKkHM+YexIQ4Dx/sf/gOcxrHY1lLy9VDHwMMMVJ3wwprbLDFDnvVhdd2PegnXnjjo+QVsf988COAIEIIK/mlbFcUMcSRQFLJq6jSyCCLHPIoKPnVDCWU4aCCqpLXWNXRQBMttNFR8jsYJphihjkWSl5fdcQJZ1xwxU39AEYpO7k=
+  </data>
+ </layer>
+</map>

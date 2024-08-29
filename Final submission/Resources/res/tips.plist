@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>1000</key>
+    <string>开始游戏</string>
+    <key>1001</key>
+    <string>刷新商店</string>
+    <key>1002</key>
+    <string>英雄</string>
+    <key>1003</key>
+    <string>退出游戏</string>
+    <key>1004</key>
+    <string>创建房间</string>
+    <key>1005</key>
+    <string>联机模式</string>
+    <key>1006</key>
+    <string>单机模式</string>
+    <key>1007</key>
+    <string>设置</string>
+    <key>1008</key>
+    <string>游戏失败</string>
+    <key>1009</key>
+    <string>恭喜你！游戏胜利</string>
+    <key>1010</key>
+    <string>再来一局</string>
+    <key>1011</key>
+    <string>升级</string>
+    <key>1012</key>
+    <string>金币</string>
+    <key>1013</key>
+    <string>购买英雄</string>
+    <key>1014</key>
+    <string>返回</string>
+    <key>1015</key>
+    <string>声音</string>
+    <key>1016</key>
+    <string>羁绊</string>
+    <key>1017</key>
+    <string>装备</string>
+    <key>1018</key>
+    <string>背包</string>
+</dict>
+</plist>

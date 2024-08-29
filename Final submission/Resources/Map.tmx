@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="24" tileheight="22" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="map" tilewidth="24" tileheight="22" tilecount="726" columns="33">
+  <image source="../../AutoChess/Resources/chessbg1.jpg" width="800" height="501"/>
+ </tileset>
+ <layer id="1" name="图块层 1" width="10" height="10">
+  <data encoding="csv">
+210,211,212,213,214,215,216,217,218,219,
+243,244,245,246,247,248,249,250,251,252,
+276,277,278,279,280,281,282,283,284,285,
+309,310,311,312,313,314,315,316,317,318,
+342,343,344,345,346,347,348,349,350,351,
+375,376,377,378,379,380,381,382,383,384,
+408,409,411,411,412,413,414,415,416,417,
+441,442,443,444,445,446,447,448,449,450,
+474,475,476,477,478,479,480,481,482,483,
+507,508,509,510,511,512,513,514,515,516
+</data>
+ </layer>
+</map>
